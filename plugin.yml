@@ -1,0 +1,6 @@
+name: HelloWorld
+authors: usevalue
+
+version: 1.0
+main: com.autcraft.HelloWorld.HelloWorld
+load: startup
